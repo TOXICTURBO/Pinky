@@ -13,7 +13,7 @@ const heroku = new Heroku({
     token: config.HEROKU.API_KEY
 });
 let baseURI = '/apps/' + config.HEROKU.APP_NAME;
-//============================== by afnanplk =============================================
+//============================== by Turbo =============================================
 const axios = require('axios');
 const fs = require('fs');
 const https = require('https');
