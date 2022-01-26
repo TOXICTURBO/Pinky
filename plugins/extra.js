@@ -148,7 +148,7 @@ if (config.WORKTYPE == 'private') {
         }
 
         if (config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'ᴘɪɴᴋʏ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀꜰɴᴀɴᴘʟᴋ' , MessageType.text, { quoted: message.data });
+            await message.client.sendMessage(message.jid,'Toxic ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Turbo' , MessageType.text, { quoted: message.data });
         }
         else {
             await message.client.sendMessage(message.jid,config.PLK, MessageType.text, { quoted: message.data });
@@ -310,7 +310,7 @@ else if (config.WORKTYPE == 'public') {
         }
 
         if (config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'ᴘɪɴᴋʏ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀꜰɴᴀɴᴘʟᴋ' , MessageType.text, { quoted: message.data });
+            await message.client.sendMessage(message.jid,'Toxic ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Turbo' , MessageType.text, { quoted: message.data });
         }
         else {
             await message.client.sendMessage(message.jid,config.PLK, MessageType.text, { quoted: message.data });
