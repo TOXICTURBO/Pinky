@@ -2,16 +2,16 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/zdcqaaG.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="Toxic.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Toxic bot" src="https://img.shields.io/badge/Toxic-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/EQiRSt1omhJ3EqilWhacvo"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/TOXICTURBO">TURBO</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,18 +21,18 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/afnanplk/lastpink?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/TOXICTURBO/Pinky ">
+    <img src="https://img.shields.io/github/repo-size/TOXICTURBO/Pinky?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/TOXICTURBO/followers"><img title="Followers" src="https://img.shields.io/github/followers/TOXICTURBO?color=red&style=flat-circle"></a>
+<a href="https://github.com/TOXICTURBO/Pinky/"><img title="Stars" src="https://img.shields.io/github/stars/TOXICTURBO/Pinky?color=red&style=flat-square"></a>
+<a href="https://github.com/TOXICTURBO/Pinky/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOXICTURBO/Pinky?color=red&style=flat-square"></a>
+<a href="https://github.com/TOXICTURBO/Pinky/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TOXICTURBO/Pinky?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
-pinky - pinky Userbot is Open Source software open to development. 
+Toxic - Toxic Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -66,11 +66,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
 
-            
-### NO ERROR DEPLOY
-            
-```
-  for easy deploy fork this repo & add the given link in your readme by changing repository link - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXICTURBO/Pinky)
+ 
 ```
 ## F.A.Q
 Answer a few frequently asked questions;
@@ -94,9 +90,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![TOXICTURBO](https://github.com/TOXICTURBO-dqz.png?size=100)](https://github.com/TOXICTURBO) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[farhan-dqz](https://github.com/TOXICTURBO)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
@@ -109,17 +105,9 @@ This project is protected by `GNU General Public Licence v3.0` license.
   
 ### thanks for your help and support guys
     `saidalli, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, plk`
+ 
+```
 
-### when forking  
-```
-add your own heroku button
-  
-  example :
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=your repository link here)
-  
-  change it into your repo link
-```
-  
 ```
  If you want add bgm (voice auto reply),sticker (auto reply)
 
