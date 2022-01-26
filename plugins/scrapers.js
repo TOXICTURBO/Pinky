@@ -385,7 +385,7 @@ if (config.WORKTYPE == 'private') {
 
             const p_lk = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:' + Pinky.OA_NAME + '\n' //created afnanplk, please copy this with credit..
+            + 'FN:' + Pinky.OA_NAME + '\n' //created Turbo, please copy this with credit..
             + 'ORG:pinky julie fam;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=' + Pinky.PHONE + ':' + Pinky.PHONE + ' \n'
             + 'END:VCARD'
